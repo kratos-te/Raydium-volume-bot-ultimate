@@ -78,7 +78,6 @@ npm run gather
 
 # 👤 Author
 
-### Discord: rabnail_15 in discord
 
 ### Twitter: [@akratos_god](https://twitter.com/akratos_god)   
 
