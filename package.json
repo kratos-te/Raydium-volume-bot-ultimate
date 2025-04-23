@@ -1,6 +1,6 @@
 {
   "name": "volume-bot",
-  "author": "Rabnail",
+  "author": "Kratos",
   "scripts": {
     "tsc": "tsc",
     "start": "ts-node index.ts",
